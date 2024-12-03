@@ -17,7 +17,7 @@
 
 ## Link Website
 
-Akses website melalui tautan berikut: [Christmas Invitation Website](https://).
+Akses website melalui tautan berikut: [Christmas Invitation Website](https://invitation-ibi.vercel.app/).
 
 ## Memulai
 
